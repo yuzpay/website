@@ -1445,6 +1445,20 @@ video {
   background-repeat: no-repeat;
 }
 
+.youtube-icon:before {
+  margin-right: 0.75rem;
+  display: inline-block;
+  height: 36px;
+  width: 36px;
+  border-radius: 9999px;
+  --tw-bg-opacity: 1;
+  background-image: url('../img/youtube.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  border: none;
+  background-color: white;
+}
+
 @media screen and (min-width: 768px) {
   .menu {
     background: none;

@@ -200,14 +200,14 @@ const gsapAnim = {
         });
 
         // ScrollTrigger.create({
-        //     trigger: "#scroll",
-        //     start: "top top",
-        //     endTrigger: ".getapp",
-        //     end: "+=${listEl.clientWidth}",
-        //     onUpdate: self => {
-        //         console.log("progress:", self.progress.toFixed(3), "direction:", self.direction, "velocity", self.getVelocity());
+        //       trigger: "#scroll",
+        //       start: "top top",
+        //       endTrigger: ".getapp",
+        //       end: "+=${listEl.clientWidth}",
+        //       onUpdate: self => {
+        //          console.log("progress:", self.progress.toFixed(3), "direction:", self.direction, "velocity", self.getVelocity());
         //     },
-        // });
+        //  });
     }
 }
 window.addEventListener('DOMContentLoaded', function () {
