@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uz.tadi.yuzpay.app",
+      "sha256_cert_fingerprints": [
+        "5B:91:A1:3F:B4:3A:54:68:9A:07:3E:66:AB:E6:A8:2B:43:BA:A0:71:C3:1B:D8:65:5E:05:85:44:2D:2D:7D:91"
+      ]
+    }
+  }
+]
